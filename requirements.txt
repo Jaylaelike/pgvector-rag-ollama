@@ -1,0 +1,12 @@
+python-docx==0.8.11
+PyPDF2==3.0.1
+tiktoken==0.5.1
+psycopg2-binary 
+sentence-transformers 
+ollama 
+jupyter 
+lab
+pydantic
+python-dotenv
+fastapi
+uvicorn
